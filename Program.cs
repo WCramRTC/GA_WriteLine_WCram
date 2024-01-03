@@ -15,7 +15,7 @@ namespace GA_WriteLine_WCram
             Console.Write("Alan Kay:");
             Console.WriteLine("  The best way to predict the future is to invent it.");
 
-            Console.WriteLine("Hi Jake and Adam");
+
         }
 
     }
